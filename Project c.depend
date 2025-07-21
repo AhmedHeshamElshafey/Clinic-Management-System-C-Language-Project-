@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1723328655 source:d:\iti emdedd avr\project c\project c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+	"configration.h"
+	"interfaces.h"
+	<windows.h>
+
+1722255096 d:\iti emdedd avr\project c\project c\std_types.h
+
+1723367246 d:\iti emdedd avr\project c\project c\configration.h
+
+1723367246 d:\iti emdedd avr\project c\project c\interfaces.h
+	"std_types.h"
+
+1723330567 source:d:\iti emdedd avr\project c\project c\programin_funcations.c
+	"interfaces.h"
+	"configration.h"
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
